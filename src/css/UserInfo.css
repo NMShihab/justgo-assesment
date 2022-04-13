@@ -1,0 +1,26 @@
+.search-area {
+  position: relative;
+  border: 1px solid #000000;
+  border-radius: 20px;
+  margin-right: 80px;
+  height: 30px;
+  min-width: 50px;
+}
+
+.search-area i {
+  margin-left: 5px;
+}
+
+.search-area input {
+  border: none;
+  position: absolute;
+  margin-left: 5px;
+  width: 170px;
+}
+.search-area input:focus {
+  outline: none; /* Removes the border when the input is clicked */
+}
+
+.pagination {
+  float: right !important;
+}

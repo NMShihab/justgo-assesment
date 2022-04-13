@@ -1,0 +1,24 @@
+.card-tile {
+  border: 1px solid gray;
+}
+
+.tile-image {
+  margin-right: 15px;
+}
+
+.tile-image img {
+  border-radius: 50%;
+  height: 50px;
+}
+
+.medium-font {
+  font-size: medium;
+}
+.large-font {
+  font-size: large;
+  font-weight: bold;
+}
+
+.small-font {
+  font-size: small;
+}

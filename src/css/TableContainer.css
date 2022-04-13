@@ -1,0 +1,27 @@
+.container-table {
+  height: 30vh;
+  overflow: auto;
+}
+
+.img-name-container {
+  display: flex;
+  padding: 5px;
+}
+
+.img-name-container img {
+  border-radius: 50%;
+  height: 50px;
+}
+
+.large-font {
+  font-size: large;
+  font-weight: bold;
+}
+.name-email-container {
+  padding-left: 10px;
+}
+
+.table-head {
+  background-color: #f4f5f6;
+  padding: 20px;
+}
